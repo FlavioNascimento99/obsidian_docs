@@ -1,0 +1,12 @@
+{
+  "spellcheck": false,
+  "readableLineLength": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "tabSize": 5,
+  "useTab": false,
+  "promptDelete": false,
+  "showInlineTitle": true
+}

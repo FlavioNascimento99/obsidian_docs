@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Things",
+  "showRibbon": true,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSize": 14,
+  "monospaceFontFamily": "Cascadia Mono"
+}
